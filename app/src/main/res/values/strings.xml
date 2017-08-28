@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Session4Assignment1</string>
+    <string name="sign_up_now">Not a member? Sign up now.</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+</resources>
